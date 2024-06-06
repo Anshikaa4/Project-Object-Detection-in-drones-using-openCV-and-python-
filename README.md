@@ -1,4 +1,4 @@
-# This is a Object detection in drones Project
+# Project- Object detection in drones 
 <br>
 <br>
 Drone- An unmanned aerial vehicle (UAV), commonly known as a drone, is an aircraft without any human pilot, crew, or passengers on board.
